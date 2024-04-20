@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.90ad05ab.css",
+    "main.js": "/static/js/main.e57fd7dc.js",
+    "static/js/453.ad6eb26e.chunk.js": "/static/js/453.ad6eb26e.chunk.js",
+    "static/media/Redmi.jpg": "/static/media/Redmi.6e38a66460b2645e094d.jpg",
+    "static/media/Vivo.png": "/static/media/Vivo.9bfcd92b7bec34ad565d.png",
+    "static/media/Galaxy.jpg": "/static/media/Galaxy.c7b87f30001a615a8552.jpg",
+    "index.html": "/index.html",
+    "main.90ad05ab.css.map": "/static/css/main.90ad05ab.css.map",
+    "main.e57fd7dc.js.map": "/static/js/main.e57fd7dc.js.map",
+    "453.ad6eb26e.chunk.js.map": "/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90ad05ab.css",
+    "static/js/main.e57fd7dc.js"
+  ]
+}
